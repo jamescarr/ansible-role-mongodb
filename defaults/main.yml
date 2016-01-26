@@ -10,6 +10,7 @@ mongodb_disable_thp: true
 
 mongodb_manage_service: true
 
+mongodb_replication_params: []
 mongodb_user: mongodb
 mongodb_uid:
 mongodb_gid:
